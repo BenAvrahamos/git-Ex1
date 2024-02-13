@@ -1,11 +1,21 @@
-body{
+body {
     background-color: black;
 
 
 }
 
-h1{
+h1 {
     color: aliceblue;
+
+
+}
+
+.ball {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-color: blueviolet;
+    margin: auto;
 
 
 }
